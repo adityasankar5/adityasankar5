@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityasankar5&label=Profile%20views&color=0e75b6&style=flat" alt="adityasankar5" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityasankar5" alt="adityasankar5" /></a> </p>
-
--I have a passion for web development and AI applications, with hands-on experience in projects ranging from healthcare technology to financial assistants. I thrive on challenges that blend innovation with practical solutions, aiming to contribute meaningfully to the tech industry's evolution.
+- I have a passion for web development and AI applications, with hands-on experience in projects ranging from healthcare technology to financial assistants. I thrive on challenges that blend innovation with practical solutions, aiming to contribute meaningfully to the tech industry's evolution.
 
 - 👨‍💻 All of my projects are available at <a href="https://adityasankar-sengupta-portfolio.vercel.app/">
 
