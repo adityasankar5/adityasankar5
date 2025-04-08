@@ -1,24 +1,19 @@
 <h1 align="center">Hi 👋, I'm Adityasankar Sengupta</h1>
-<h3 align="center">Sophomore at SRMIST | Frontend Developer | Python | C, C++ | Java | HTML | CSS | Javascript | DSA</h3>
+<h3 align="center">Pre-final Year at SRMIST | Full-stack Developer | Python | C++ | Java | HTML | CSS | Javascript | DSA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityasankar5&label=Profile%20views&color=0e75b6&style=flat" alt="adityasankar5" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityasankar5" alt="adityasankar5" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+-I have a passion for web development and AI applications, with hands-on experience in projects ranging from healthcare technology to financial assistants. I thrive on challenges that blend innovation with practical solutions, aiming to contribute meaningfully to the tech industry's evolution.
 
-- 👨‍💻 All of my projects are available at [-](-)
-
-- 🤖 My Current Position **Head of Web/App Development at ACM SIGKDD SRM**
+- 👨‍💻 All of my projects are available at <a href="https://adityasankar-sengupta-portfolio.vercel.app/">
 
 - 📫 How to reach me **adityasankarsengupta111@gmail.com**
-
-- 📄 Know about my experiences at https://drive.google.com/file/d/1FtCM1h7NA1agN1IFSmpaK6C4PKdcSRzN/view?usp=drive_link
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/adityasankar-sengupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityasankar-sengupta" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@as1718" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@as1718" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/adityasankarsengupta111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adityasankarsengupta111" height="30" width="40" /></a>
 </p>
 
