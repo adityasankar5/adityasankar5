@@ -5,7 +5,7 @@
 
 - I have a passion for web development and AI applications, with hands-on experience in projects ranging from healthcare technology to financial assistants. I thrive on challenges that blend innovation with practical solutions, aiming to contribute meaningfully to the tech industry's evolution.
 
-- 👨‍💻 All of my projects are available at <a href="https://adityasankar-sengupta-portfolio.vercel.app/">
+- 👨‍💻 All of my projects are available at [Adityasankar Sengupta Portfolio](https://adityasankar-sengupta-portfolio.vercel.app/)
 
 - 📫 How to reach me **adityasankarsengupta111@gmail.com**
 
